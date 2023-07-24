@@ -1,6 +1,6 @@
 {
   "name": "node-libs-browser-okam",
-  "version": "2.2.3",
+  "version": "2.2.4",
   "author": "Tobias Koppers @sokra",
   "description": "The node core libs for in browser usage.",
   "repository": {
