@@ -1,1 +1,1 @@
-module.exports = require('punycode/');
+module.exports = require('punycode-okam/');

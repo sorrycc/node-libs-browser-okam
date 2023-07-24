@@ -1,1 +1,1 @@
-module.exports = require('assert/');
+module.exports = require('assert-okam/');

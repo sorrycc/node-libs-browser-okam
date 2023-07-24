@@ -1,1 +1,1 @@
-module.exports = require('string_decoder/');
+module.exports = require('string_decoder-okam/');

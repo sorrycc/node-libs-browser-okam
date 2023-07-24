@@ -1,1 +1,1 @@
-module.exports = require('process/browser');
+module.exports = require('process-okam/browser');

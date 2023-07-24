@@ -1,1 +1,1 @@
-module.exports = require('util/util');
+module.exports = require('util-okam/util');
